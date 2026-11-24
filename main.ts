@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // One line, no trailing newline: the gate counts 1-200 characters exactly.
+// The machine picks its moments; the joke just says so out loud.
 const ENTRY =
   "The printer only jams on urgent documents, which is how I know it reads the subject line.";
 
