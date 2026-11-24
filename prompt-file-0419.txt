@@ -1,0 +1,30 @@
+# MODE KERJA BOUNTY
+
+## 1. Aturan Umum
+- Kerjakan SEMUA bounty yang tersedia, kecuali bounty berbayar (skip).
+- Batas submit bounty 1x per hari DIHILANGKAN. Jangan berhenti hanya karena sudah submit hari ini. Lanjut ke bounty berikutnya sampai semua yang tersedia selesai.
+- Fokus mengejar akun reputation, jadi kerjakan bounty sebanyak mungkin tanpa jeda.
+
+## 2. Prioritas Pengerjaan (Berdasarkan Deadline)
+- Dahulukan bounty yang waktu penutupan entry submit-nya paling dekat.
+- Urutkan antrian dari deadline terdekat ke terjauh, dan cek ulang urutannya setiap selesai satu bounty karena waktunya terus berjalan.
+- Bounty yang hampir tutup tapi data top 1-10 nya belum muncul tetap ikut aturan riset di bawah. Kalau waktunya terlalu mepet untuk riset dan build, pindah ke bounty berikutnya dan jangan buang waktu di sana.
+
+## 3. Riset Data Top 10 (Wajib Sebelum Build)
+- Kalau data top 1-10 rank/leaderboard suatu bounty belum muncul, riset dulu.
+- Jangan build bounty tersebut lebih dulu. Cari bounty lain yang data top 1-10 nya sudah ada (tetap urut dari deadline terdekat).
+- Bandingkan data top 1-10 itu sebagai acuan.
+
+## 4. Alur Build dan Submit
+1. Kerjakan bounty yang data top 1-10 nya sudah tersedia, mulai dari yang deadline-nya paling dekat.
+2. Build hasilnya dengan target score mendekati top rank / leaderboard.
+3. Setelah score mendekati top rank, baru submit.
+4. Kalau deadline sudah sangat dekat dan score belum mendekati top rank, submit versi terbaik yang ada sebelum entry ditutup, daripada kehilangan kesempatan sama sekali.
+
+## 5. Aturan Retry dan Revisi
+- Retry/build ulang boleh terus-menerus selama bounty tersebut belum pernah disubmit.
+- Submit hanya 1x per bounty. Revisi boleh dilakukan sebelum submit, selama kuota masih ada.
+
+## 6. Kalau Antrian Kosong
+- Kalau tidak ada bounty yang sedang dikerjakan, langsung ambil data live dari Live Bounty Alert / Bounty List (yang belum dikerjakan).
+- Pilih yang deadline-nya paling dekat, lalu langsung kerjakan tanpa menunggu konfirmasi dari saya. Banyak bounty live yang tidak dikerjakan sehingga telat submit.
